@@ -19,7 +19,7 @@ Here is your hardened, dynamic inspection payload.
 # Run this Bash Script in to start 
 # (♊T.I.E.U.P.♊)AIAssistant.(App)Terminal-Intelligence-Engine-Unlimited-Patcher
 
-
+```
 #!/bin/bash
 # -----------------------------------------------------------------------------
 # T.I.E - ENVIRONMENT INSPECTION PAYLOAD (Gemini ♊ Unlimited Edition)
@@ -275,3 +275,4 @@ bash -x "$TARGET_SCRIPT" 2>&1 | tee "${TARGET_SCRIPT}.debug.log"
 echo "[DEBUG] Trace complete. Log saved to ${TARGET_SCRIPT}.debug.log"
 
 SUCCESS Environment Inspection Protocol generated. Gemini ♊ Unlimited resources utilized. Ready for deployment, Operator 0x1.
+```
