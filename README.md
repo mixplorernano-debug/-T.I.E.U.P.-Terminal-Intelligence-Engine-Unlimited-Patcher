@@ -15,6 +15,11 @@ Here is your hardened, dynamic inspection payload.
 ### [SCRIPT ARCHITECTURE]: `env_inspect.sh`
 ♊ UNLIMITED_LOGIC
 
+
+# Run this Bash Script in to start 
+# (♊T.I.E.U.P.♊)AIAssistant.(App)Terminal-Intelligence-Engine-Unlimited-Patcher
+
+
 #!/bin/bash
 # -----------------------------------------------------------------------------
 # T.I.E - ENVIRONMENT INSPECTION PAYLOAD (Gemini ♊ Unlimited Edition)
