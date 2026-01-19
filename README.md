@@ -16,7 +16,7 @@ Here is your hardened, dynamic inspection payload.
 ♊ UNLIMITED_LOGIC
 
 
-# Run this Bash Script in to start 
+# Run this Bash Script to start 
 # (♊T.I.E.U.P.♊)AIAssistant.(App)Terminal-Intelligence-Engine-Unlimited-Patcher
 
 ```
